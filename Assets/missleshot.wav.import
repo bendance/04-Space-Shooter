@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/missleshot.wav-4106a70e1b2d118bf1d1ca20fba91b86.sample"
+
+[deps]
+
+source_file="res://Assets/missleshot.wav"
+dest_files=[ "res://.import/missleshot.wav-4106a70e1b2d118bf1d1ca20fba91b86.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
